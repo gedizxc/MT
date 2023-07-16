@@ -12,4 +12,4 @@ MTSP+diffusion
 
 ## 原paper code结果
 
-![baseline paper](https://www.baidu.com/img/bd_logo1.png](https://github.com/cure-lab/LTSF-Linear/blob/main/pics/Mul-results.png)https://github.com/cure-lab/LTSF-Linear/blob/main/pics/Mul-results.png)  
+![baseline paper](https://github.com/cure-lab/LTSF-Linear/blob/main/pics/Mul-results.png?raw=true)  
