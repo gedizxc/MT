@@ -10,3 +10,6 @@ MTSP+diffusion
 2.请直接运行Transformer_main的代码来测试Transformer+duffsuion（注意Transformer和Linear的目前最优参数差异较大，所以分开执行） <br>
 
 
+## 原paper code结果
+
+![baseline paper]([https://www.baidu.com/img/bd_logo1.png](https://github.com/cure-lab/LTSF-Linear/blob/main/pics/Mul-results.png)https://github.com/cure-lab/LTSF-Linear/blob/main/pics/Mul-results.png)  
