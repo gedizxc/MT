@@ -12,6 +12,6 @@ MTSP+diffusion
 
 ## 原paper code结果
 
-![Nlinear]([https://github.com/cure-lab/LTSF-Linear/blob/main/pics/Mul-results.png?raw=true](https://github.com/gedizxc/MT/blob/master/1024064503.png)https://github.com/gedizxc/MT/blob/master/1024064503.png)   
+![Nlinear](https://github.com/cure-lab/LTSF-Linear/blob/main/pics/Mul-results.png?raw=true](https://github.com/gedizxc/MT/blob/master/1024064503.png)https://github.com/gedizxc/MT/blob/master/1024064503.png)   
 ![Nlinear+diffusion](https://github.com/gedizxc/MT/blob/master/1689512327617.jpg）
 
