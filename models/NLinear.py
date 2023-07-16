@@ -66,7 +66,7 @@ class Model(nn.Module):
         x = torch.mean(x, dim=1, keepdim=True)
         # enc_out,_= torch.max(enc_out, dim=1)
         x = torch.squeeze(x, dim=1)
-        #x = x +origin_x
+        x = x +origin_x
 
         #pre
         seq_last = x[:, -1:, :].detach()
