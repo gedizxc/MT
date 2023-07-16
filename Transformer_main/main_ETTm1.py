@@ -28,7 +28,7 @@ parser.add_argument('--mask', type=int, default=0, help='Mask_MLP loss')
 
 #Diffusion
 parser.add_argument('--is_diffusion', type=int, default=1, help='use diffusion model')
-parser.add_argument('--is_diff_condition', type=int, default=1, help='use condiction diffusion model')
+parser.add_argument('--is_diff_condition', type=int, default=0, help='use condiction diffusion model')
 parser.add_argument('--diff_epoch', type=int, default=1, help='diffusion epoch')
 parser.add_argument('--diff_lr', type=int, default=3e-4, help='diffusion learning rate')
 parser.add_argument('--noise_step', type=int, default=20, help='diffusion noise step') #1000
